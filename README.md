@@ -1,16 +1,16 @@
 # DETECTION-OF-ACUTE-LYMPHOBLASTIC-LUEKEMIA
 
-Project Overview
+**Project Overview**
 
 This project focuses on identifying immature lymphoblast cells from normal lymphoblast cells using deep learning techniques. Specifically, it employs the Inception V3 pretrained deep convolutional neural network for object classification.
 
-Dataset
+**Dataset**
 
 The dataset used for this project is sourced from the ALL Challenge dataset of ISBI 2019 available on The Cancer Imaging Archive:
 
 Citation: Gupta, A., & Gupta, R. (2019). ALL Challenge dataset of ISBI 2019 [Data set]. The Cancer Imaging Archive. DOI:10.7937/tcia.2019.dc64i46r
 
-Methodology
+**Methodology**
 
 1. Data Preprocessing
 
@@ -34,7 +34,7 @@ Early stopping is implemented to halt training when there is no improvement in v
 
 Various image classification models were tested to evaluate performance.
 
-Analysis & Results
+**Analysis & Results**
 
 Validation Accuracy: 60-65.399%
 
@@ -44,13 +44,13 @@ The model successfully differentiates between immature and normal blood cells.
 
 The study highlights the need for better classification techniques for ALL subtypes, which are often ignored due to high interclass similarity and intraclass variability.
 
-Conclusion
+**Conclusion**
 
 The model effectively detects immature blood cells, aiding in early leukemia diagnosis.
 
 Further improvements can be made in subtype classification, which is crucial for precise medical treatment.
 
-References
+**References**
 
 Deep Transfer Learning in Diagnosing Leukemia in Blood Cells - Mohamed Loey, Mukdad Naman, and Hala Zayed (Benha University, Egypt)
 
@@ -58,7 +58,7 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI 2017) - Desco
 
 Segmentation of Overlapping/Touched White Blood Cell Nuclei using ANN - CME Series on Hemato-Oncopathology, AIIMS, New Delhi.
 
-Future Work
+**Future Work**
 
 Improve classification accuracy using advanced deep learning techniques.
 
