@@ -52,11 +52,11 @@ Further improvements can be made in subtype classification, which is crucial for
 
 **References**
 
-Deep Transfer Learning in Diagnosing Leukemia in Blood Cells - Mohamed Loey, Mukdad Naman, and Hala Zayed (Benha University, Egypt)
+*Deep Transfer Learning in Diagnosing Leukemia in Blood Cells - Mohamed Loey, Mukdad Naman, and Hala Zayed (Benha University, Egypt)*
 
-Medical Image Computing and Computer-Assisted Intervention (MICCAI 2017) - Descoteaux M., Maier-Hein L., et al.
+*Medical Image Computing and Computer-Assisted Intervention (MICCAI 2017) - Descoteaux M., Maier-Hein L., et al.*
 
-Segmentation of Overlapping/Touched White Blood Cell Nuclei using ANN - CME Series on Hemato-Oncopathology, AIIMS, New Delhi.
+*Segmentation of Overlapping/Touched White Blood Cell Nuclei using ANN - CME Series on Hemato-Oncopathology, AIIMS, New Delhi.*
 
 **Future Work**
 
